@@ -4,6 +4,7 @@ FONT = 'Calibri'
 MAIN_TEXT_SIZE = 150
 INPUT_FONT_SIZE = 26
 SWITCH_FONT_SIZE = 18
+BTN_RADIUS = 6
 
 # Colors Configure
 GREEN = '#50BFAB'
